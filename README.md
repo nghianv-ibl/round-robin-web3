@@ -27,3 +27,8 @@ for (var i = 0; i < 100; i++) {
 ```
 # Installation
 ```npm install https://github.com/nghianv-ibl/round-robin-web3.git#develop```
+# Feature
+- Support function check white list fullnode.
+- Support round robin with list fullnode to load balance requests.
+# Ethereum Web3 Document
+```https://github.com/ethereum/wiki/wiki/JavaScript-API```
