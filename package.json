@@ -1,0 +1,29 @@
+{
+  "name": "round-robin-web3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghianv-ibl/round-robin-web3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/nghianv-ibl/round-robin-web3/issues"
+  },
+  "homepage": "https://github.com/nghianv-ibl/round-robin-web3#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "lodash": "^4.17.11",
+    "random-js": "^1.0.8",
+    "web3": "^0.19.0"
+  }
+}
