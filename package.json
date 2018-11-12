@@ -21,9 +21,8 @@
   },
   "homepage": "https://github.com/nghianv-ibl/round-robin-web3#readme",
   "dependencies": {
-    "debug": "^3.1.0",
+    "loadbalance": "^0.3.2",
     "lodash": "^4.17.11",
-    "random-js": "^1.0.8",
     "web3": "^0.19.0"
   }
 }
